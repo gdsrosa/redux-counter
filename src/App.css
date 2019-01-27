@@ -1,0 +1,8 @@
+.app {
+  font-family: "Menlo", sans-serif;
+  text-align: center;
+}
+
+ul > li {
+  list-style-type: none;
+}
